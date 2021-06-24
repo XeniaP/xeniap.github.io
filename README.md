@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeniaP)
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=XeniaP&show_icons=true)
 
 
