@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeniaP&layout=compact) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=XeniaP&show_icons=true)
 
+![CodeRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xeniap)
+
 
 <!--
 **XeniaP/xeniap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
