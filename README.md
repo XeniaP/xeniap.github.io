@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeniaP&layout=compact&theme=material-palenight) 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=XeniaP&show_icons=true)
