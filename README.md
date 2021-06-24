@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=XeniaP&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=XeniaP&show_icons=true)
 
 
 <!--
