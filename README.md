@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeniaP&layout=compact) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=XeniaP&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeniaP&layout=compact&theme=material-palenight) 
 
-![CodeRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xeniap)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=XeniaP&show_icons=true)
+
 
 
 <!--
