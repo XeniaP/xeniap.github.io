@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kubernetes
-<codersrank-skills-chart username="xeniap"></codersrank-skills-chart>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=XeniaP&count_private=true&show_icons=true&hide=contribs)
+
+
 <!--
 **XeniaP/xeniap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
