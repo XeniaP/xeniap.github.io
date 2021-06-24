@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/xniap)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeniaP&layout=compact&theme=material-palenight) 
 
